@@ -1,3 +1,3 @@
 # gitskills
 git push test
-git log to 
+git log to commit
