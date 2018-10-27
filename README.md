@@ -7,3 +7,6 @@ git push test
 git log to commit
 resolve conflict well
 test well
+test conflict
+apple pear
+
