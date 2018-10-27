@@ -6,4 +6,4 @@ git rebase
 git push test
 git log to commit
 resolve conflict well
-test
+test well
